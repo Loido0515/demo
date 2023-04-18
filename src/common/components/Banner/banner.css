@@ -1,0 +1,11 @@
+.banner {
+    margin-top: 15px;
+    height: 500px;
+}
+
+.banner__img {
+    min-width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    min-height: 100%;
+}
